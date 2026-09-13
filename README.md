@@ -48,3 +48,6 @@ after publishing.
 The documentation and examples in this repository are available under the MIT
 License. This license applies only to this repository, not to the Wanderer's
 Discovery mod, its code, sounds, branding or visual assets.
+
+The distributed mod is covered separately by the
+[Wanderer's Discovery License 1.0](MOD-LICENSE.md).
