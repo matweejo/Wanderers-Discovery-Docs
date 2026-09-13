@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Example integration for Wanderer's Discovery",
+    "min_format": [107, 1],
+    "max_format": [107, 1]
+  }
+}

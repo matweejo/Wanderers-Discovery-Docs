@@ -1,0 +1,18 @@
+{
+  "parent": "wanderers_discovery:exploration/root",
+  "criteria": {
+    "discovered": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "icon": {
+      "id": "minecraft:amethyst_shard"
+    },
+    "title": "Moon Temple",
+    "description": "Discover the example custom location.",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": false
+  }
+}
