@@ -154,7 +154,7 @@ detection:
 
 Generated names depend on the structure location and remain stable across
 sessions.
-This is the only supported generator ID in 1.0.0. It takes precedence over
+This is the only supported generator ID in 1.0.1. It takes precedence over
 `name`; arbitrary generator IDs do not register new generators.
 
 ## Assets supplied by a mod
@@ -185,10 +185,11 @@ The fallback text is shown when a language does not contain the requested
 translation key. A standalone datapack can use the default Wanderer's Discovery
 presentation or reference vanilla assets without a resource pack.
 
-Supply a transparent 256x44 PNG for a custom banner and keep the central text
-area clear. Omitting `banner_texture` selects the standard banner; a missing
-custom texture is not automatically replaced. The complete definition above
-references two sound variants, so supply both sound events and audio files.
+Supply a 256x44 PNG for a custom banner and keep the central text area clear.
+Both opaque and transparent artwork are supported. Omitting `banner_texture`
+selects the standard fallback banner; a missing custom texture is not
+automatically replaced. The complete definition above references two sound
+variants, so supply both sound events and audio files.
 
 ## Built-in behavior through structure tags
 

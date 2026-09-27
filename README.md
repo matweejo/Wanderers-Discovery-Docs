@@ -1,9 +1,14 @@
 # Wanderer's Discovery
 
 Wanderer's Discovery is a Fabric mod that turns Minecraft structures into
-persistent discoveries. Entering a new location presents a themed banner and
-sound, records the location for the current world and awards an exploration
-advancement where appropriate.
+persistent discoveries. Entering a new location presents a structure-specific
+banner and ambient sound, records the location for the current world and awards
+an exploration advancement where appropriate.
+
+Each supported location has its own visual identity and contextual audio.
+Villages receive persistent generated names, discoveries are announced in chat,
+and returning players can still see a compact location label without replaying
+the original presentation.
 
 This repository contains the public user and integration documentation. It does
 not contain the mod source code or distributable assets.
@@ -17,13 +22,12 @@ not contain the mod source code or distributable assets.
 
 ## Requirements
 
-| Component | Version |
-| --- | --- |
-| Wanderer's Discovery | 1.0.0 |
-| Minecraft: Java Edition | 26.2 |
-| Fabric Loader | 0.19.3 or newer |
-| Java | 25 or newer |
-| Fabric API | 0.157.0+26.2 or compatible |
+| Mod version | Minecraft | Fabric Loader | Fabric API |
+| --- | --- | --- | --- |
+| 1.0.1 | 26.3 | 0.19.5 or newer | 0.160.6+26.3 or compatible |
+| 1.0.1 | 26.2 | 0.19.3 or newer | 0.157.0+26.2 or compatible |
+
+Java 25 or newer is required for both supported Minecraft versions.
 
 Install Wanderer's Discovery and Fabric API on both the client and server.
 
