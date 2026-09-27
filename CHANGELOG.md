@@ -4,7 +4,6 @@
 
 - Added an individually designed discovery banner for every built-in location.
 - Replaced the original discovery audio with structure-specific ambient sounds
-  featuring smooth fade-in and fade-out.
 - Added separate daytime and nighttime village sound variants.
 - Moved the discovery status beneath the banner to a compact label above the
   hotbar.
@@ -20,11 +19,8 @@
 - Added named villages, discovery banners, glow timing and compact location
   labels.
 - Added exploration advancements for built-in locations.
-- Added deterministic custom sound variants and contextual daytime and
-  nighttime village themes.
 - Added built-in support for vanilla structures and desert wells.
 - Added Trial Chambers discovery.
 - Added datapack-defined discovery types, structure-tag integration, custom
   presentation assets and advancement support.
-- Added a client marker API for compatible maps.
 - Added an optional client ambience-state signal for integrations.
