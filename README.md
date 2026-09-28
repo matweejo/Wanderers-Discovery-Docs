@@ -16,8 +16,10 @@ mod may choose to consume it.
 
 ## Start here
 
+- [Player guide and built-in locations](docs/player-guide.md)
 - [Datapack and mod integration](docs/integration.md)
 - [Ready-to-use example datapack](examples/custom-discovery-datapack)
+- [Changelog](CHANGELOG.md)
 
 ## Supported version
 

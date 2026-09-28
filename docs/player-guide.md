@@ -58,6 +58,11 @@ the two interfaces do not obscure each other. Every built-in discovery
 advancement is also announced in chat. Vanilla advancements retain their normal
 Minecraft timing.
 
+## Integration support
+
+Other mods can consume the public client marker API and the current-location
+state. Wanderer's Discovery does not add a standalone minimap or world map.
+
 ## Testing a discovery
 
 Use `/locate structure <namespace:id>`, teleport near the result and walk into
