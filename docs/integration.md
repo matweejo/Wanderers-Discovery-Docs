@@ -171,6 +171,9 @@ Supported paths are `village`, `pillager_outpost`, `mineshaft`,
 `ruined_portal`, `ancient_city`, `trail_ruins`, `trial_chambers` and
 `abandoned_camp`.
 
+`abandoned_camp` is available in the Minecraft 26.3 build. The other listed
+structure-tag paths are available in both supported Minecraft versions.
+
 A full custom definition takes precedence over built-in matching. Vanilla
 desert wells use a dedicated placed-feature detector and cannot be extended
 through a structure tag.

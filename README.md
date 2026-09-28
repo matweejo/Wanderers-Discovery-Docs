@@ -23,8 +23,8 @@ mod may choose to consume it.
 
 | Wanderer's Discovery | Minecraft | Fabric Loader |
 | --- | --- | --- |
-| 1.0.1 | 26.3 | 0.19.5 or newer |
-| 1.0.0 | 26.2 | 0.19.3 or newer |
+| 1.0.1 or newer | 26.3 | 0.19.5 or newer |
+| 1.0.1 or newer | 26.2 | 0.19.3 or newer |
 
 The integration format is data-driven. Keep the definition path stable after
 publishing because it becomes the persistent discovery type ID stored in world
