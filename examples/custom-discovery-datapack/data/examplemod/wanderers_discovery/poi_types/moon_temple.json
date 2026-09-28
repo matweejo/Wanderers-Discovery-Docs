@@ -16,15 +16,15 @@
   "sounds": [
     {
       "event": "wanderers_discovery:discovery.poi.village_1",
-      "duration_ticks": 106,
-      "glow_peak_tick": 18,
+      "duration_ticks": 166,
+      "glow_peak_tick": 87,
       "volume": 0.2,
       "pitch": 1.0
     },
     {
       "event": "wanderers_discovery:discovery.poi.village_2",
-      "duration_ticks": 162,
-      "glow_peak_tick": 52,
+      "duration_ticks": 122,
+      "glow_peak_tick": 51,
       "volume": 0.2,
       "pitch": 1.0
     }
